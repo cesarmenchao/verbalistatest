@@ -11,16 +11,18 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "permissions": ["INTERNET", "ACCESS_FINE_LOCATION", "RECORD_AUDIO"]
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Precisamos do acesso ao microfone para reconhecimento de voz."
       }
     },
     "web": {
