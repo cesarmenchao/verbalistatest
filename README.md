@@ -38,6 +38,10 @@ VerbalistaTest is an application developed in React Native with Expo, designed t
 - Node.js
 - Expo CLI (can be installed via npm install -g expo-cli)
 
+## Screenshots
+
+!(https://drive.google.com/file/d/1KpsTn3x-rdw06_qjrXH_7tuJ1f7uR8YR/view?usp=drive_link)
+
 ## Instalação
 
 1 - Install dependencies
