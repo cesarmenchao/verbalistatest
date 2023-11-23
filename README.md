@@ -21,10 +21,10 @@ VerbalistaTest is an application developed in React Native with Expo, designed t
 
 | Color               | Hexadecimal                                                      |
 | ------------------- | ---------------------------------------------------------------- |
-| primaryBackground   | ![#FFFFFF](https://via.placeholder.com/10/0a192f?text=+) #FFFFFF |
-| sevondaryBackground | ![#EfEEEf](https://via.placeholder.com/10/f8f8f8?text=+) #EfEEEf |
-| terciaryBackground  | ![#838387](https://via.placeholder.com/10/00b48a?text=+) #838387 |
-| primaryText         | ![#000](https://via.placeholder.com/10/00b48a?text=+) #000       |
+| primaryBackground   | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| sevondaryBackground | ![#EfEEEf](https://via.placeholder.com/10/EfEEEf?text=+) #EfEEEf |
+| terciaryBackground  | ![#838387](https://via.placeholder.com/10/838387?text=+) #838387 |
+| primaryText         | ![#000](https://via.placeholder.com/10/000?text=+) #000       |
 
 | Font size | Pixel |
 | --------- | ----- |
