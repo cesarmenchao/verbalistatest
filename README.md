@@ -40,10 +40,13 @@ VerbalistaTest is an application developed in React Native with Expo, designed t
 
 ## Screenshots
 
-<img src="https://github.com/cesarmenchao/verbalistatest/assets/83882868/957b85de-9003-4ba7-b5e6-0a655173a78d" width="300">
-<img src="https://github.com/cesarmenchao/verbalistatest/assets/83882868/ea9f61b0-a2ca-444c-be80-c3146aeabc68" width="300">
-<img src="https://github.com/cesarmenchao/verbalistatest/assets/83882868/bee14227-19bb-46bc-92fb-2d02dbf6a805" width="300">
-<img src="https://github.com/cesarmenchao/verbalistatest/assets/83882868/e2e4bd07-4d5e-4598-a07c-a34395291e29" width="300">
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/83882868/285293807-cac17a88-2b68-49f7-a4a1-fd3b33d52b2b.png" width="300">
+<img src="https://user-images.githubusercontent.com/83882868/285293810-4d11d639-9c93-4c10-89a4-d7c5fd55e5b0.png" width="300">
+<img src="https://user-images.githubusercontent.com/83882868/285293814-be3620b2-3bc2-4bc2-b37c-e4a3251bf423.png" width="300">
+<img src="https://user-images.githubusercontent.com/83882868/285293817-8863d187-f28d-4a1a-b294-25fbf8a0021e.png" width="300">
+
 
 ## Screen Recording
 
