@@ -40,8 +40,6 @@ VerbalistaTest is an application developed in React Native with Expo, designed t
 
 ## Screenshots
 
-## Screenshots
-
 <img src="https://user-images.githubusercontent.com/83882868/285293807-cac17a88-2b68-49f7-a4a1-fd3b33d52b2b.png" width="300">
 <img src="https://user-images.githubusercontent.com/83882868/285293810-4d11d639-9c93-4c10-89a4-d7c5fd55e5b0.png" width="300">
 <img src="https://user-images.githubusercontent.com/83882868/285293814-be3620b2-3bc2-4bc2-b37c-e4a3251bf423.png" width="300">
